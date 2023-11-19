@@ -1,5 +1,5 @@
 {
-    "name": "fca-hungdev",
+    "name": "fca",
     "version": "3.0.0",
     "description": "Facebook chat api hỗ trợ cho bot messenger",
     "scripts": {
@@ -12,7 +12,7 @@
       "url": "git://github.com/"
     },
     "keywords": [
-      "fca hungdev",
+      "fca",
       "fca-hungdev"
     ],
     "bugs": {
